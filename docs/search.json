@@ -11,6 +11,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n\n\nMy name is Derek Yee and I am a biology major at UMass Amherst. I am currently in my second semester of my junior year and planning to do research as a career."
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "This is the labs page"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "This is the project page"
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "This is the presentation page"
   }
 ]
