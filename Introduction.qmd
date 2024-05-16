@@ -1,0 +1,9 @@
+---
+title: "Introduction"
+---
+
+Background on Proteobacteria: Alpha-Proteobacteria are known for their metabolic diversity and ability to adapt to various environmental niches. This class includes species crucial for nitrogen cycling, a fundamental ecological process in wetlands.
+
+Research Gap: Previous studies have predominantly focused on larger organisms or the chemical aspects of wetlands. There is a lack of comprehensive microbial genomic studies in the Chase Lake Wetlands, particularly concerning the response of Alpha-Proteobacteria to environmental variables.
+
+Study Objectives: This project aims to fill these gaps by mapping the diversity of Alpha-Proteobacteria and analyzing their correlation with environmental factors such as nutrient levels and water quality.

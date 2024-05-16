@@ -1,0 +1,7 @@
+---
+title: "Methods"
+---
+
+Data Collection: Metagenomic sequencing data was obtained from the National Ecological Observatory Network (NEON), focusing on samples collected from the Chase Lake Wetlands over the spring and summer of 2024.
+
+Analytical Techniques: Bioinformatic analyses were performed using QIIME 2 for microbial community analysis and R for statistical analysis, focusing on diversity indices and correlation tests between microbial presence and environmental factors.

@@ -1,5 +1,0 @@
----
-title: "Labs"
----
-
-This is the labs page

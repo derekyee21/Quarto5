@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-About this site
-
-[![My name is Derek Yee and I am a biology major at UMass Amherst. I am currently in my second semester of my junior year and planning to do research as a career.](images/IMG_3219.jpg)](quarto5-posit)
